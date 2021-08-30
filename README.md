@@ -2,9 +2,11 @@
 
 ## overview
 
-famicom homebrew.
+famicom homebrew. powered by CC65.
 
-BG color test program. powered by CC65.
+BG color test program.
+
+PRG-ROM 32KB + CHR-RAM(not ROM) 8KB.
 
 ## images
 
